@@ -1,0 +1,14 @@
+{
+  "event_name": "Python Bootcamp 2026",
+  "title": "Certificate of Completion",
+  "issuer": "Tech Academy",
+  "issue_date": "2026-10-09",
+  "recipients": [
+    {"name": "Rahul Patil",  "email": "rahul@example.com",  "course": "Python Backend Development"},
+    {"name": "Sneha Joshi",  "email": "sneha@example.com",  "course": "Python Backend Development"},
+    {"name": "Amit Deshmukh","email": "amit@example.com"},
+    {"name": "",             "email": "missing-name@example.com"},
+    {"name": "Bad Email",    "email": "not-an-email"},
+    {"name": "Rahul Again",  "email": "rahul@example.com"}
+  ]
+}

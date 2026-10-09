@@ -1,0 +1,4 @@
+Flask>=3.0
+reportlab>=4.0
+# pytest is optional: tests are plain unittest, so both work.
+pytest>=8.0
